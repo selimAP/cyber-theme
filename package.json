@@ -1,8 +1,12 @@
 {
-  "name": "Cyber-Theme",
-  "displayName": "Cyber",
-  "description": "Blue dark theme with colorful syntax",
-  "version": "0.0.1",
+  "name": "Cyber-Dark-Theme",
+  "description": "The VSCODE theme you need!",
+  "version": "1.0.0",
+  "publisher": "selimAP",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/selimAP/cyber-theme"
+  },
   "engines": {
     "vscode": "^1.91.0"
   },
@@ -14,7 +18,8 @@
       {
         "label": "Cyber Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Cyber Dark-color-theme.json"
+        "path": "./themes/Cyber Dark-color-theme.json",
+        "icon": "./images/logo-1.png"
       }
     ]
   }

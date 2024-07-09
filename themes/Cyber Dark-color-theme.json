@@ -1,12 +1,6 @@
 {
-    "name": "Cyber Dark",
-	"description": "The VSCODE theme you need!",
-	"version": "1.0.0",
-	"publisher": "selimAP",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/selimAP/cyber-theme"
-	},
+    "name": "Cyber-Dark-Theme",
+    "type": "dark",
     "colors": {
         "editor.background": "#0e0a2c",
         "editor.foreground": "#ffffff",
