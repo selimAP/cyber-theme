@@ -1,16 +1,51 @@
-# Cyber-Theme README
+# Cyber Dark Theme
 
-## Working with Markdown
+## Introduction
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Welcome to the **Cyber Dark Theme** for Visual Studio Code. This theme offers a sleek, cyber-inspired look for your code editor, with a dark background and vibrant, contrasting colors.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
 
-## For more information
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking the square icon in the sidebar.
+3. Search for `Cyber Dark Theme`.
+4. Click **Install**.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Usage
 
-**Enjoy!**
+After installation, select the theme:
+
+1. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
+2. Type `Preferences: Color Theme` and select **Cyber Dark Theme**.
+
+## Colors and Token Customization
+
+### Editor Colors
+- **Background**: `#0e0a2c`
+- **Foreground**: `#ffffff`
+
+### Sidebar and Activity Bar
+- **Activity Bar Background**: `#18163b`
+- **Activity Bar Foreground**: `#B026FF`
+- **Sidebar Background**: `#0a0720`
+- **Sidebar Foreground**: `#ffffff`
+
+### Tabs
+- **Active Tab Background**: `#120d3a`
+- **Inactive Tab Background**: `#0b0725`
+- **Active Tab Border**: `#07f2f1`
+
+### Status Bar
+- **Background**: `#B026FF`
+- **Foreground**: `#ffffff`
+
+### Token Colors
+- **Comment**: `#8a8a8a7e` (italic)
+- **Variable**: `#797bff`
+- **Keyword**: `#D968FF`
+- **String**: `#9bdb99`
+- **Function**: `#07f2f1`
+
+## Enjoy Coding!
+
+Thank you for choosing **Cyber Dark Theme**. Enjoy a futuristic coding experience!
