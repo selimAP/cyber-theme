@@ -5,7 +5,9 @@
 Welcome to the **Cyber Dark Theme** for Visual Studio Code. This theme offers a sleek, cyber-inspired look for your code editor, with a dark background and vibrant, contrasting colors.
 
 ## Installation
-https://marketplace.visualstudio.com/items?itemName=selimAP.Cyber-Dark-Theme
+The theme only works with the latest version **1.91.0** if you get an error message update your vscode
+
+[https://marketplace.visualstudio.com/items?itemName=selimAP.Cyber-Dark-Theme](https://marketplace.visualstudio.com/items?itemName=selimAP.Cyber-Dark-Theme)
 
 ### Alternative 
 1. Open Visual Studio Code.
